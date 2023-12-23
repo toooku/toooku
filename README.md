@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**toooku/toooku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+toooku
 
-Here are some ideas to get you started:
+I have a Master's degree in Prehistoric Archaeology and am currently working as a software engineer.
+I am interested in developing web systems using Java and Kotlin. I am also interested in information archaeology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Site -> https://toku.ooo/
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toooku&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toooku&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toooku&theme=algolia&utcOffset=8)
+
