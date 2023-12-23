@@ -4,8 +4,8 @@ I am interested in developing web systems using Java and Kotlin. I am also inter
 
 Web Site -> https://toku.ooo/
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toooku&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toooku&theme=graywhite)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toooku&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toooku&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toooku&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toooku&theme=graywhite&utcOffset=8)
 
